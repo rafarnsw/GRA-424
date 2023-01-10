@@ -1,0 +1,15 @@
+
+.square { 
+    background-color: #eee;
+    border: 3px dashed red
+
+&.one {
+    max-width: 300px
+    
+    &:after {
+        content: '';
+        display: block;
+        padding-top: 100%;
+    }
+}
+}

@@ -1,3 +1,7 @@
+body {
+    overflow: hidden
+}
+
 .background-box {
     font-family: Helvetica, sans-serif;
     background-color: black;
@@ -123,3 +127,4 @@ body {
     /* background-color: black */
     border: solid black 5px;
 }
+

@@ -55,7 +55,7 @@ body {
 
 .square-1 {
     display: flex;
-    border: .25pt solid black;
+    border: .25pt solid rgb(174, 174, 174);
     width: 71.428571vw;
     height: 71.428571vh;
     margin:auto
@@ -105,4 +105,21 @@ body {
     height: 14.285714vh;
     margin: auto;
     
+}
+
+/* 2 LINE INTERACTION */
+
+.sq-2-lineInt {
+    display: flex;
+    justify-content: space-between;
+    width: 42.857143vw;
+    height: 42.857143vh;
+    margin: auto;
+}
+
+.lines {
+    display: flex;
+    justify-content: space-between;
+    /* background-color: black */
+    border: solid black 5px;
 }

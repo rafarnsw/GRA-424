@@ -49,7 +49,7 @@ body {
 .container {
     display: flex;
     width: 100vw;
-    height: 100vw;
+    height: 100vh;
     
 }
 
@@ -57,7 +57,7 @@ body {
     display: flex;
     border: .25pt solid black;
     width: 71.428571vw;
-    height: 71.428571vw;
+    height: 71.428571vh;
     margin:auto
     
 }
@@ -66,7 +66,7 @@ body {
     display: flex;
     border: .25pt solid black;
     width: 42.857143vw;
-    height: 42.857143vw;
+    height: 42.857143vh;
     margin: auto;
     
 }
@@ -75,7 +75,7 @@ body {
     display: flex;
     background-color: black;
     width: 14.285714vw;
-    height: 14.285714vw;
+    height: 14.285714vh;
     margin: auto;
     
 }
@@ -84,7 +84,7 @@ body {
     display: flex;
     border: 0.25pt solid black;
     width: 71.428571vw;
-    height: 71.428571vw;
+    height: 71.428571vh;
     margin: auto;
     
 }
@@ -93,7 +93,7 @@ body {
     display: flex;
     background-color: rgb(0,0,0);
     width: 42.857143vw;
-    height: 42.857143vw;
+    height: 42.857143vh;
     margin: auto;
     
 }
@@ -102,7 +102,7 @@ body {
     display: flex;
     background-color: rgb(255,255,255);
     width: 14.285714vw;
-    height: 14.285714vw;
+    height: 14.285714vh;
     margin: auto;
     
 }

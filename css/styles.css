@@ -212,3 +212,88 @@ body {
     height: 42.857143vh;
     margin: auto;
 }
+
+.first-line2 {
+    display: flex;
+    width: 42.857143vw;
+    height: 42.857143vh;
+    margin: auto;
+    overflow: hidden;
+    position: relative;
+    top: -57.125vh;
+}
+
+.line-left2 {
+    display: flex;
+    background-color: rgb(0, 0, 0);
+    transform: rotate(-15deg);
+    width: 1.50965797vw;
+    height: 65vh;
+    margin: auto;
+    margin-left: 0;
+    transform-origin: 0% 0%;
+    margin-left: -8vh;
+}
+
+.line2 {
+    display: flex;
+    background-color: rgb(0, 0, 0);
+    transform: rotate(-15deg);
+    width: 1.50965797vw;
+    height: 65vh;
+    margin: auto;
+    transform-origin: 0% 0%;
+}
+
+.line-right2 {
+    display: flex;
+    background-color: rgb(0, 0, 0);
+    transform: rotate(-15deg);
+    width: 1.50965797vw;
+    height: 65vh;
+    margin: auto;
+    margin-right: 0;
+    transform-origin: 0% 0%;
+}
+
+.addition-square {
+    display: flex;
+    width: 14.285714vw;
+    height: 14.285714vh;
+    margin: auto;
+    overflow: hidden;
+    position: relative;
+    top: -85.2vh;
+}
+
+.white-one-left2 {
+    display: flex;
+    transform: rotate(60deg);
+    background-color: rgb(255, 255, 255);
+    width: 1.50965797vw;
+    height: 95vh;
+    margin: auto;
+    margin-left: -17vh;
+    margin-top: -40vh;
+}
+
+.white-one2 {
+    display: flex;
+    transform: rotate(60deg);
+    background-color: rgb(255, 255, 255);
+    width: 1.50965797vw;
+    height: 95vh;
+    margin: auto;
+    margin-top: -40vh;
+}
+
+.white-one-right2 {
+    display: flex;
+    transform: rotate(60deg);
+    background-color: rgb(255, 255, 255);
+    width: 1.50965797vw;
+    height: 95vh;
+    margin: auto;
+    margin-right: -17vh;
+    margin-top: -40vh;
+}

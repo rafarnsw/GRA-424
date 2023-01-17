@@ -194,9 +194,9 @@ body {
     background-color: #fff;
     width: 71.428571vw;
     height: 71.428571vh;
-    border-color: #000;
+    border-color: #777;
     border-style: solid;
-    border-width: 1px;
+    border-width: .25px;
     margin: auto;
 }
 
@@ -268,7 +268,7 @@ body {
 
 .white-one-left2 {
     display: flex;
-    transform: rotate(60deg);
+    transform: rotate(-60deg);
     background-color: rgb(255, 255, 255);
     width: 1.50965797vw;
     height: 95vh;
@@ -279,7 +279,7 @@ body {
 
 .white-one2 {
     display: flex;
-    transform: rotate(60deg);
+    transform: rotate(-60deg);
     background-color: rgb(255, 255, 255);
     width: 1.50965797vw;
     height: 95vh;
@@ -289,7 +289,7 @@ body {
 
 .white-one-right2 {
     display: flex;
-    transform: rotate(60deg);
+    transform: rotate(-60deg);
     background-color: rgb(255, 255, 255);
     width: 1.50965797vw;
     height: 95vh;

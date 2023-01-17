@@ -421,3 +421,28 @@ body {
     bottom: 0;
     right: 0;
 }
+
+.middle-square-2 {
+    display: flex;
+    width: 14.285714vw;
+    height: 14.285714vh;
+    background-color: #c1682f;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    z-index: 1;
+}
+
+.middle-square-3 {
+    display: flex;
+    width: 14.285714vw;
+    height: 14.285714vh;
+    background-color: #8a7463;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    z-index: 1;
+}
+

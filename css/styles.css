@@ -679,3 +679,17 @@ body {
     height: 42.857143vh;
     background-color: #f8b577;
 }
+
+.small-square1-1-1 {
+    display: flex;
+    width: 14.285714vw;
+    height: 14.285714vh;
+    background-color: #8ea3d3;
+}
+
+.small-square2-2-2 {
+    display: flex;
+    width: 14.285714vw;
+    height: 14.285714vh;
+    background-color: #8a81bd;
+}

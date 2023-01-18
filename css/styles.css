@@ -592,14 +592,14 @@ body {
     display: flex;
     width: 14.285714vw;
     height: 14.285714vh;
-    background-color: #8ea3d3;
+    background-color: #7ec788;
 }
 
 .small-square2-2 {
     display: flex;
     width: 14.285714vw;
     height: 14.285714vh;
-    background-color: #8a81bd;
+    background-color: #7ec788;
 }
 
 .smaller-square-container {
@@ -622,4 +622,60 @@ body {
     width: 7.1428571667vw;
     height: 42.857143vh;
     background-color: #d21c64;
+}
+
+.inner-square-container {
+    display: flex;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    margin: auto;
+}
+
+.inner-square1-1 {
+    display: flex;
+    width: 21.4285715vw;
+    height: 42.857143vh;
+    background-color: #4ec4d1;
+    margin: auto;
+}
+
+.inner-square2-2 {
+    display: flex;
+    width: 21.4285715vw;
+    height: 42.857143vh;
+    background-color: #fbe377;
+    margin: auto;
+}
+
+.small-square-container3 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+}
+
+.small-square-one-color {
+    display: flex;
+    width: 28.571428vw;
+    height: 14.285714vh;
+    background-color: #7ec788;
+}
+
+.smaller-square3 {
+    display: flex;
+    width: 7.1428571667vw;
+    height: 42.857143vh;
+    background-color: #2d3a8b;
+}
+
+.smaller-square4 {
+    display: flex;
+    width: 7.1428571667vw;
+    height: 42.857143vh;
+    background-color: #f8b577;
 }

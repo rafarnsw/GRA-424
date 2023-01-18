@@ -601,3 +601,25 @@ body {
     height: 14.285714vh;
     background-color: #8a81bd;
 }
+
+.smaller-square-container {
+    display: flex;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.smaller-square1 {
+    display: flex;
+    width: 7.1428571667vw;
+    height: 42.857143vh;
+    background-color: #e7eb93;
+}
+
+.smaller-square2 {
+    display: flex;
+    width: 7.1428571667vw;
+    height: 42.857143vh;
+    background-color: #d21c64;
+}

@@ -538,3 +538,66 @@ body {
     background-color: #f27287;
 }
 
+.all-container {
+    display: flex;
+    border: .25pt solid #777;
+    width: 71.428571vw;
+    height: 71.428571vh;
+    margin: auto;
+}
+
+.outer-square2 {
+    display: flex;
+    width: 42.857143vw;
+    height: 42.857143vh;
+    position: relative;
+    margin: auto;
+}
+
+.inner-square-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    margin: auto;
+}
+
+.inner-square1 {
+    display: flex;
+    width: 21.4285715vw;
+    height: 42.857143vh;
+    background-color: #e7eb93;
+    margin: auto;
+}
+
+.inner-square2 {
+    display: flex;
+    width: 21.4285715vw;
+    height: 42.857143vh;
+    background-color: #d21c64;
+    margin: auto;
+}
+
+.small-square-container2 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+}
+
+.small-square1-1 {
+    display: flex;
+    width: 14.285714vw;
+    height: 14.285714vh;
+    background-color: #8ea3d3;
+}
+
+.small-square2-2 {
+    display: flex;
+    width: 14.285714vw;
+    height: 14.285714vh;
+    background-color: #8a81bd;
+}

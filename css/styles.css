@@ -373,14 +373,15 @@ body {
     display: flex;
     width: 14.285714vw;
     height: 14.285714vh;
-    background-color: #f48da7;
+    background-color: #5cb95d;
 }
+
 
 .small-square-9 {
     display: flex;
     width: 14.285714vw;
     height: 14.285714vh;
-    background-color: #5cb95d;
+    background-color: #f48da7;
 }
 
 .middle-square {

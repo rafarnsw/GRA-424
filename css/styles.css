@@ -59,7 +59,7 @@ body {
 
 .square-1 {
     display: flex;
-    border: .25pt solid rgb(174, 174, 174);
+    border: .25pt solid rgb(187, 187, 187);
     width: 71.428571vw;
     height: 71.428571vh;
     margin:auto

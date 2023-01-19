@@ -68,7 +68,7 @@ body {
 
 .square-2 {
     display: flex;
-    border: .25pt solid rgb(195, 195, 195);
+    border: .25pt solid rgb(214, 214, 214);
     width: 42.857143vw;
     height: 42.857143vh;
     margin: auto;
